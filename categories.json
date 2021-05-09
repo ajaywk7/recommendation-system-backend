@@ -1,0 +1,22 @@
+[
+        {
+            "image": "https://e7.pngegg.com/pngimages/138/773/png-clipart-vegetable-food-tomato-grocery-store-salad-fresh-fruits-and-vegetables-bunch-of-vegetables-natural-foods-leaf-vegetable-thumbnail.png",
+            "name": "vegetable"
+        },
+        {
+            "image": "https://2.bp.blogspot.com/-eXFUzNaoqqM/XI-U8qCBXyI/AAAAAAAADwI/9hUfN_ZvbnAZrzAt5q1hLGAq5BI_BgyYwCEwYBhgL/s320/Cold%2BDrinks.jpg",
+            "name": "beverages"
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Culinary_fruits_top_view.jpg/1200px-Culinary_fruits_top_view.jpg",
+            "name": "fruit"
+        },
+        {
+            "image": "http://livewellsiouxfalls.org/images/uploads/main/dairy.png",
+            "name": "dairy"
+        },
+        {
+            "image": "https://e7.pngegg.com/pngimages/659/345/png-clipart-white-bread-breakfast-breadbasket-a-basket-of-bread-baked-goods-food-thumbnail.png",
+            "name": "bakery"
+        }
+    ]
