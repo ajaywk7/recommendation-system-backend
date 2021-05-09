@@ -12,7 +12,7 @@ import razorpay
 import recommend
 
 rzClient = razorpay.Client(
-    auth=("rzp_test_SZp0P0isnoUWrQ", "IY2Y79U7XfAUlq6drsSFM7Bk"))
+    auth=("rzp_test_SZp0P0isnoUWrQ", "IY2Y79U7XfAUlq6drsSFM7Bk")) #replace with your razorpay key and secret
 
 app = flask.Flask(__name__)
 cors = CORS(app)
@@ -20,7 +20,7 @@ app.config["DEBUG"] = True
 app.config['CORS_HEADERS'] = 'Content-Type'
 
 client = MongoClient(
-    'mongodb+srv://ajay:test@cluster0.ttuw9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority')
+    'mongodb+srv://ajay:<password>@cluster0.ttuw9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority') #replace with your mongo connection
 
 db = client["bs-mart"]
 
